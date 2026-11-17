@@ -1,0 +1,9 @@
+*.gguf
+*.so
+*.so.*
+*.clbin
+*.log
+.env
+__pycache__/
+ollama-vulkan-exp/
+evidencia-*.txt
